@@ -1,1 +1,1 @@
-CST438-group-project
+Group Project repository for CST438
